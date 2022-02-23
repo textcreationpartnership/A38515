@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Epistle to a member of Parliament concerning Mr. George Oldner's invention to preserve ships from foundering or sinking at sea &amp;c</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38515</idno>
+            <idno type="STC">Wing E3165</idno>
+            <idno type="STC">ESTC R176738</idno>
+            <idno type="EEBO-CITATION">11979783</idno>
+            <idno type="OCLC">ocm 11979783</idno>
+            <idno type="VID">51808</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38515)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51808)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1008:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Epistle to a member of Parliament concerning Mr. George Oldner's invention to preserve ships from foundering or sinking at sea &amp;c</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oldner, George.</term>
+               <term>Ships --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51808:1"/>
+            <pb facs="tcp:51808:1" rendition="simple:additions"/>
+            <p>AN EPISTLE To a Member of PARLIAMENT, CONCERNING Mr. <hi>George Oldner</hi>'s Invention To Preſerve SHIPS FROM <hi>Foundering or Sinking at Sea,</hi> &amp;c.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year. 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:51808:2"/>
+            <pb n="3" facs="tcp:51808:2"/>
+            <head>An Epiſtle to a Member of Parliament, con<g ref="char:EOLhyphen"/>cerning Mr. <hi>George Oldner</hi>'s Invention to Pre<g ref="char:EOLhyphen"/>ſerve Ships from Foundering or Sinking at Sea, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN Obedience to your Commands, I have made it my Buſineſs to Search out for moſt of the New Pamphlets that have been Publiſh't, ſince I had the Happineſs of your Converſation, at your Houſe in the Countrey. 'Tis true, we live in a very Teeming Age: Never was the Preſs more guilty of Impertinent Productions, than ſince the Expi<g ref="char:EOLhyphen"/>ration of the Act of Licenſing: The whole Nation ſeems to have run a Gadding, and every little Trifler ſets up now for Wit, Politicks, or Projects. But amongſt all that have ap<g ref="char:EOLhyphen"/>pear'd openly, none ſeems to be more endu'd with ſuch a Mon<g ref="char:EOLhyphen"/>ſtrous and Unaccountable Air of Whimſie and Confidence, as the Invention of Mr. <hi>George Oldner,</hi> to preſerve Ships from Foun<g ref="char:EOLhyphen"/>dering and Sinking at Sea, <hi>&amp;c.</hi> A noble Undertaking, I con<g ref="char:EOLhyphen"/>feſs, if it can ever be Accompliſhed: But by the Method of his Propoſals, which I have ſent you, it may juſtly be ſuſpected to ſavour both of Deſign and Vanity. For he muſt certainly have a very mean Opinion of Mankind, to ſuppoſe they can be prevail'd upon to Join in his Subſcriptions, upon ſo ſlender a Foundation, as an Experiment of his Invention made in a Model of Six Foot long, in the River, upon the Teſtimony of Half a Score Honeſt Gentlemen, ſome of whom, poſſibly, are not equal Judges; and one of the moſt Honourable of them, by his own Marginal Acknowledgment, was not preſent at the Trial. For, what Proportion is there, I beſeech you, betwixt
+<pb facs="tcp:51808:3"/>a Ship of Three or Four Hundred Tun, and his Diminitive Mo<g ref="char:EOLhyphen"/>del? Or betwixt the <hi>Thames</hi> and the Main <hi>Ocean?</hi> Can there be any poſſible Compariſon between the Effects of his little Model, and thoſe of a Loaden Ship of a Thouſand Tun in Tempeſtuous Weather? Beſides, that there is a Wonderful dif<g ref="char:EOLhyphen"/>ference in the Effects of Water near the Surface, and Deeper down. But becauſe I wou'd not exceed the Dimenſions of a familiar Letter, I ſhall only take notice of ſome few Obſervati<g ref="char:EOLhyphen"/>ons that occurr'd in the reading his Propoſal, and ſo leave it to your more mature Conſideration, whether it may deſerve any Encouragement from the Houſe, if ever it ſhall have the Con<g ref="char:EOLhyphen"/>fidence to appear in Parliament.</p>
+            <p>There is then no manner of Argument from the Performance of his Model: An Averrment in ſuch Caſes is very Doubtful and Preſumptuous, and the Event has put very Wiſe Men to a <hi>Nonplus.</hi> As great Certainties, and as well Founded as This, have utterly failed in the Proof, as in the Experiment of the Diving Engines, where there appear'd a wonderful Diſpro<g ref="char:EOLhyphen"/>portion in the Effects of the Model, and the main Works.</p>
+            <p>The Diſingenuity of theſe Patentees ought to be Conſider'd, who have made bold to Miſapply to their Service, a Certificate given by the <hi>Chirurgeons</hi> in favour of a much more Conſider<g ref="char:EOLhyphen"/>able <hi>Invention;</hi> which has ſo far approv'd it ſelf by ſundry full and open Experiments, as to merit a Vote from the Houſe of Commons, the laſt Seſſions, for its Favour and Encouragement. This is a very Un-Gentleman-like Prevarication, to Impoſe a Certificate of another's Invention upon the World, in Evidence of the goodneſs of their Project: And in <hi>primo limine,</hi> in the very beginning of their Endeavours gives us probable Grounds to ſuſpect the Sincerity of their whole Proceeding.</p>
+            <p>Again, conſidering they Affirm their Invention to be ſo Con<g ref="char:EOLhyphen"/>triv'd, that it will take very little Room, requires little Labour, not Difficult, but done with ſmall Charge, <hi>&amp;c.</hi> If it be ſo Cheap and Eaſie, had it not been reaſonable for them to have made their Experiment at large, in a Ship already Built, and not pre<g ref="char:EOLhyphen"/>tend
+<pb facs="tcp:51808:3"/>to Wheedle Mankind with the <hi>Chimerical</hi> Effects of an Inſignificant Model? This wou'd have put the Matter out of all Diſpute, and have been a Noble and Inconteſtable Induce<g ref="char:EOLhyphen"/>ment to bring in Subſcribers.</p>
+            <p>Beſides, one of the Patentees offers, upon a Conditional Re<g ref="char:EOLhyphen"/>ward, to go to <hi>Holland</hi> in a Ship that has ſuch Breaches, that Twenty of the beſt known Pumps, tho' manag'd with as many Hands as can Work them, ſhall not be able to ſave her from ſinking Four or Five Hours together: But it would have been much more for his purpoſe, if he could truly have told us, that he return'd from thence in ſuch a Ship. All this, he ſays, is to be done with the Uſe but of Two Pumps, ſtanding in as little Room, and requiring as little Strength, as thoſe now ge<g ref="char:EOLhyphen"/>nerally uſed.</p>
+            <p>Now it is to be Obſerved, That a Ship Pump, in Uſe, delivers Eighty Tun of Water in an Hour; and a Gentleman preten<g ref="char:EOLhyphen"/>ded to the laſt Parliament, to produce a Pump ſhou'd do Fifteen times as much, which Amounts to Twelve Hundred Tun an Hour, and theſe Two little Pumps pretend to exceed that Twenty times, which ariſes to Twenty four Thouſand Tun of Water an Hour: <hi>Credentne Poſteri!</hi> Here's a brave Foundation now, whereon to build a Creed for <hi>Apella</hi> the <hi>Jew!</hi> For no Man but a <hi>Solifidian</hi> can Entertain ſuch a Be<g ref="char:EOLhyphen"/>lief.</p>
+            <p>Again, A <hi>Secret,</hi> liable to ſo many Doubts and Objecti<g ref="char:EOLhyphen"/>ons, and yet promiſing ſuch wonderful Effects, ought not to be hid in the Dark. It ought to ſupport it ſelf upon its own Sufficiency, and not ſuppoſe that the Atteſtation of a few pri<g ref="char:EOLhyphen"/>vate Gentlemen, is ſufficient to Overbear and Inveigle Mankind into Prepoſterous Subſcriptions againſt common Reaſon, and plain Sence, without very good <hi>Security,</hi> that the Subſcribers ſhall be reimburſed their Payments, if the Project prove ineffe<g ref="char:EOLhyphen"/>ctual. Truth loves the open Light; 'tis Error and Impoſture that deſires Veils and Lurking Holes; to Conceal the Myſtery of their Project, under pretence of making an Advantage with Fo<g ref="char:EOLhyphen"/>reign
+<pb facs="tcp:51808:4"/>N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tions, ſmells very Rank of Partiality and Deſign; as the Treaty they ſay they are upon with the <hi>French, Dutch, Sweeds,</hi> and other Neighbouring States, by way of Advantage and Rewards.</p>
+            <p>It had been a fairer Proceeding, to have poſtpon'd the vaſt Deſire of Improving their own Intereſt, to the Good of the Pub<g ref="char:EOLhyphen"/>lick, and not pretend to go Proling and Hawking abroad af<g ref="char:EOLhyphen"/>ter Foreign Rewards, and in the mean while neglect the put<g ref="char:EOLhyphen"/>ting their Works forward at Home, for the Good of their Country. By this Method they wou'd have gotten more by ad<g ref="char:EOLhyphen"/>vancing the Value of their Shares, than they could reaſonably expect from thoſe Exotic Rewards: Which, beſides, if the In<g ref="char:EOLhyphen"/>vention anſwers their Pretenſions, can never be loſt. This would have facilitated the Deſign of engaging Subſcribers, and have been no Prejudice to the Undertakers, becauſe they are aſſur'd of their Invention.</p>
+            <p>Again, Theſe Propoſals are Matters of great Conſequence; 60000 <hi>l.</hi> is a very large Summ, to be rais'd upon a blind Con<g ref="char:EOLhyphen"/>fidence, and requires a due and mature Conſideration of the Foundation, whereon they are built, and can never, without a ſtrict Examination, have any Weight with thinking Men, much leſs a Parliament, who know by Experience, That main Works very often fall ſhort, in anſwering the Ends that Mo<g ref="char:EOLhyphen"/>dels pretend to.</p>
+            <p>If they alledge, that the Sincerity and Integrity of the Per<g ref="char:EOLhyphen"/>ſons Certifying, is a ſufficient Foundation for Encouragement of Subſcriptions; I reply, That nothing but meer Hopes of Gain, can induce any Rational Man into ſuch a Belief, who knows that Water in its own Nature will not riſe above its Le<g ref="char:EOLhyphen"/>vel without Force or Violence: And that Length, Breadth and Depth, Number, Weight and Meaſure, Centre and Cir<g ref="char:EOLhyphen"/>cumference, give Laws to all Natural and Mechanical Moti<g ref="char:EOLhyphen"/>ons. Neither do the Qualifications of the Perſons, making or compoſing any Engine or Inſtrument, whether they are Wiſe and Honeſt, Knaves or Fools, vary its Effects. For as
+<pb n="7" facs="tcp:51808:4"/>they are Compoſed, ſo they will Operate; for the L<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w of Na<g ref="char:EOLhyphen"/>ture is <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>overaign, and without Subjection.</p>
+            <p>To Conclude; for Innumerable Inſtances of Suſpicion and Inſincerity may be advanced againſt theſe Propoſals; they tell us, that for removing all Doubts, and for full Satisfaction of all Perſons that ſhall be concerned with them, they reſolve and declare, that no more than Fifty Shillings ſhall be paid, till a Conditional Grant of a Reward is obtain'd from the Go<g ref="char:EOLhyphen"/>vernment, and a Trial of the ſaid Invention be made by a Voyage to <hi>Holland,</hi> and the ſafe Arrival of the Ship at <hi>Rot<g ref="char:EOLhyphen"/>terdam.</hi>
+            </p>
+            <p>This is a new way of Removing of Doubts, by throwing us into greater; for 'tis deſir'd they would make it out, how a Promiſe of a Conditional Reward from the Government, will any ways aſcertain the Truth of their Invention? And how a Certificate from a Notary Public in <hi>Rotterdam,</hi> is of any Avail, to juſtifie what paſt in the Ship at Sea? Surely they needed not have been in ſuch haſte; but have ſtay'd till the ſafe Return of the Ship to <hi>England.</hi>
+            </p>
+            <p>But what ſeems more ſtrange to me, is, That they abate the Value of their Invention, as they fall in their Price. For when they propos'd their Invention, at 60000 <hi>l.</hi> Mr. <hi>Lurtin</hi> and Mr. <hi>Warren</hi> were for making the Experiment in a Ship to the <hi>Streights,</hi> or the <hi>Weſt-Indies;</hi> but now when they have deſcen<g ref="char:EOLhyphen"/>ded to a Subſcription but of 15000 <hi>l.</hi> they will make their Voyage but to <hi>Holland:</hi> It ſeems now they begin to miſtruſt the Sufficiency of their Invention, being caution'd, perhaps, by the Succeſs of Sir <hi>William Petty</hi>'s <hi>Double-Keel'd Experiment.</hi>
+            </p>
+            <p>You may underſtand, Sir, by theſe few Obvious Hints, what a Baſis ſuch mighty Pretenſions are founded on: Notwith<g ref="char:EOLhyphen"/>ſtanding which, they have the Vanity to tell the World, in the <hi>Flying-Poſt,</hi> that ſeveral eminent Merchants have ſignify'd their Intentions to Subſcribe, and Pay large Sums of Money beforehand, to ſave themſelves the Trouble of Attending.</p>
+            <pb n="8" facs="tcp:51808:5"/>
+            <p> This is a <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>er palpable Plan, and as Incredible as the Prin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ropoſal it ſelf; certainly 'tis the firſt time that ever the, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rchants were ſo fond of parting with their Money, eſpe<g ref="char:EOLhyphen"/>cially upon a Proſpect ſo doubtful, that few or none have yet been let into the Myſtery of the Invention.</p>
+            <p>Really, Sir<g ref="char:punc">▪</g> I would do any thing, rather than leſſen the Reputation of any Propoſal that ſhou'd tend to the Advan<g ref="char:EOLhyphen"/>tage of Mankind: But this is the boldeſt Stroke that I ever met with, propos'd with a ſerious Countenance; and a Proſpect of ſuch Effect and Influence as this pretends to, ſought to have ſomething more than a bare Atteſtation for its Encourage<g ref="char:EOLhyphen"/>ment and Confirmation.</p>
+            <p>When they have finiſh'd this Exploit, I hope they will find out a Method to teach Ships to fly, and ſhape a better Courſe to the Moon, than Monſieur <hi>Bajerac</hi> with all his Wit cou'd ever imagine.</p>
+            <p>Sir, I ſhall interrupt you no farther, but recommend the Propoſal it ſelf to your Peruſal, which I doubt not will give you a ſecond Tedious Entertainment.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:51808:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
